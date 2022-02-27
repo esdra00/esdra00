@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @esdra00
 - 👀 I’m interested in ... front-end web development
-- 🌱 I’m currently learning ... Javascript, Bootstrap, React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ... Bootstrap, React
+- 🌱 I'm currently masterting ... Python, Javascript
+- 📫 How to reach me ... esdrabergamasco@gmail.com
 
 <!---
 esdra00/esdra00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
