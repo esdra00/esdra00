@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @esdra00
 - 👀 I’m interested in ... front-end web development
 - 🌱 I’m currently learning ... Bootstrap, React
-- 🌱 I'm currently masterting ... Python, Javascript
+- 🌱 I'm also working on masterting ... Python, Javascript
 - 📫 How to reach me ... esdrabergamasco@gmail.com
 
 <!---
