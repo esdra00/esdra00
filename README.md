@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @esdra00 I'm a  junior front-end web developer with a passion for user experience and interactive design, and a desire to eventually become a full stack developer.
-
-- 👀 I’m interested in ... front-end web development
-- 🌱 I’m currently learning ... Bootstrap, React
-- 🌱 I'm also working on masterting ... Python, Javascript
-- 📫 How to reach me ... esdrabergamasco@gmail.com
-
-<!---
-esdra00/esdra00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<details>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=rzashakeri&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzashakeri&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+</details>
