@@ -1,4 +1,4 @@
-# <Esdra Bergamasco> - GitHub Profile
+# Esdra Bergamasco - GitHub Profile
 
 ![Profile Banner](./README banner.png)
 
