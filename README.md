@@ -1,6 +1,6 @@
 # Esdra Bergamasco - GitHub Profile
 
-![Profile Banner](./README banner.png)
+![Profile Banner](./banner.png)
 
 <!---
 - 👋 Hi, I’m @esdra00
