@@ -1,3 +1,8 @@
+# <Esdra Bergamasco> - GitHub Profile
+
+![Profile Banner](./README banner.png)
+
+
 - 👋 Hi, I’m @esdra00
 - 👀 I’m interested in ... front-end web development
 - 🌱 I’m currently learning ... Bootstrap, React
